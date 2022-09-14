@@ -2,3 +2,10 @@
     #leftsidebar {width: 200px; float: left;}
     #main {margin-left: 216px;}
   }
+  #welcome-section{
+    height: 100vh;
+  }
+  #welcome-section #navbar{
+    position: relative;
+    top:0;
+  }
